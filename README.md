@@ -21,7 +21,7 @@ The Customer Monitoring System is a Python-based application that uses computer 
    ```
    pip install -r requirements.txt
    ```
-
+3. Create a folder named `images` in the same directory.
 ## Usage
 
 1. Update the `main.py` file with the appropriate camera settings and email credentials.
