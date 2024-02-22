@@ -14,7 +14,7 @@ The Customer Monitoring System is a Python-based application that uses computer 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/customer-monitoring-system.git
+   git clone https://github.com/SubhojitGuin/customer-monitoring-system.git
    ```
 
 2. Install the required dependencies:
